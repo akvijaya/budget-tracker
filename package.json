@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.5.0"
+    "webpack-dev-server": "^4.5.0",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
